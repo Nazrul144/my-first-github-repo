@@ -15,3 +15,7 @@ input[type='text'], input[type='email']{
     display: block;
     margin-bottom: 4px;
 }
+.how{
+    background-color: aquamarine;
+    color: tomato;
+}
