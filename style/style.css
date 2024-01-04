@@ -5,3 +5,13 @@ p{
 div{
     background-color: tomato;
 }
+ul{
+    color: red;
+}
+
+input[type='text'], input[type='email']{
+    color: aquamarine;
+    padding: 10px;
+    display: block;
+    margin-bottom: 4px;
+}
